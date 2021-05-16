@@ -3,7 +3,7 @@ package xxx;
 public abstract class Pen {
 	
 	private String brand;
-	private double price;
+	private double master;
 	
 	public Pen() {
 		
